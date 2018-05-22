@@ -1,0 +1,28 @@
+﻿  main.cpp
+main.cpp(52): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+main.cpp(53): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+main.cpp(193): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+main.cpp(395): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“Eigen::EigenBase<Derived>::Index”
+          with
+          [
+              Derived=Eigen::SparseMatrix<real,1,int>
+          ]
+  main.cpp(395): note: 请考虑在格式字符串中使用“%td”
+main.cpp(407): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“Eigen::EigenBase<Derived>::Index”
+          with
+          [
+              Derived=Eigen::Solve<Eigen::SparseLU<Eigen::SparseMatrix<real,1,int>,Eigen::COLAMDOrdering<int>>,Eigen::Matrix<double,-1,1,0,-1,1>>
+          ]
+  main.cpp(407): note: 请考虑在格式字符串中使用“%td”
+main.cpp(447): warning C4018: “<”: 有符号/无符号不匹配
+main.cpp(448): warning C4018: “<”: 有符号/无符号不匹配
+main.cpp(468): warning C4018: “<”: 有符号/无符号不匹配
+main.cpp(469): warning C4018: “<”: 有符号/无符号不匹配
+main.cpp(523): warning C4018: “<”: 有符号/无符号不匹配
+main.cpp(524): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码
+  139 of 7750 functions ( 1.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    38 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  colorization.vcxproj -> C:\Users\Guo Jingzhe\documents\visual studio 2017\Projects\colorization\x64\Release\colorization.exe

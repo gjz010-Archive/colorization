@@ -1,0 +1,17 @@
+﻿  main.cpp
+main.cpp(51): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+main.cpp(52): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+main.cpp(176): warning C4018: “<”: 有符号/无符号不匹配
+main.cpp(178): warning C4018: “<”: 有符号/无符号不匹配
+main.cpp(184): warning C4018: “<”: 有符号/无符号不匹配
+main.cpp(218): warning C4018: “<”: 有符号/无符号不匹配
+main.cpp(443): warning C4018: “<”: 有符号/无符号不匹配
+main.cpp(444): warning C4018: “<”: 有符号/无符号不匹配
+main.cpp(464): warning C4018: “<”: 有符号/无符号不匹配
+main.cpp(465): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码
+  1 of 7727 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  colorization.vcxproj -> C:\Users\Guo Jingzhe\documents\visual studio 2017\Projects\colorization\Release\colorization.exe

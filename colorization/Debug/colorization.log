@@ -1,0 +1,12 @@
+﻿  main.cpp
+c:\users\guo jingzhe\documents\visual studio 2017\projects\colorization\colorization\main.cpp(51): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\guo jingzhe\documents\visual studio 2017\projects\colorization\colorization\main.cpp(52): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\guo jingzhe\documents\visual studio 2017\projects\colorization\colorization\main.cpp(176): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\guo jingzhe\documents\visual studio 2017\projects\colorization\colorization\main.cpp(178): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\guo jingzhe\documents\visual studio 2017\projects\colorization\colorization\main.cpp(184): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\guo jingzhe\documents\visual studio 2017\projects\colorization\colorization\main.cpp(386): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\guo jingzhe\documents\visual studio 2017\projects\colorization\colorization\main.cpp(387): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\guo jingzhe\documents\visual studio 2017\projects\colorization\colorization\main.cpp(405): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\guo jingzhe\documents\visual studio 2017\projects\colorization\colorization\main.cpp(406): warning C4018: “<”: 有符号/无符号不匹配
+  colorization.vcxproj -> C:\Users\Guo Jingzhe\documents\visual studio 2017\Projects\colorization\Debug\colorization.exe
+  colorization.vcxproj -> C:\Users\Guo Jingzhe\documents\visual studio 2017\Projects\colorization\Debug\colorization.pdb (Partial PDB)
